@@ -1,0 +1,9 @@
+{
+  "Language": "Language",
+  "Alarm": "Alarm",
+  "Set": "Set",
+  "notification": {
+    "title": "Time is up!",
+    "body": "Have a nice day~~~"
+  }
+}
